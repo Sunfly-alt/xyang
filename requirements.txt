@@ -1,0 +1,5 @@
+pandas
+easydict
+fastai==1.*
+Pillow==8.2.0
+fastprogress==1.0.2
