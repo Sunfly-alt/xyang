@@ -1,0 +1,11 @@
+# others
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.tif
+*.jar
+*.war
+*.zip
+*.jpeg
+**/__pycache__
